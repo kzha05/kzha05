@@ -11,7 +11,7 @@ Welcome to my GitHub! I’m an aspiring web developer with a passion for creatin
   <img src="https://img.icons8.com/color/48/000000/sass.png" alt="Sass"/> 90%
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/> 75%
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/> 50%
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/> 65%
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/> 50%
 </p>
 
 ### 🌱 Currently Learning
