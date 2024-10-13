@@ -18,9 +18,6 @@ Welcome to my GitHub! I’m an aspiring web developer with a passion for creatin
 - Node.js
 - C++
 - becoming better at semantic HTML and React.
-
-<p align="center">
-  <img src="https://tenor.com/bODSs.gif" alt="Fun GIF" width="500"/>
-</p>
+- 
 
 Feel free to explore my repositories and connect!
