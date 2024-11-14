@@ -5,15 +5,15 @@ Welcome to my GitHub! I’m an aspiring web developer with a passion for creatin
 
 ### 💻 Languages
 
-![HTML](https://img.shields.io/badge/HTML-90%25-orange)
-![CSS](https://img.shields.io/badge/CSS-90%25-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-75%25-yellow)
-![Sass](https://img.shields.io/badge/SASS-90%25-pink)
-![SCSS](https://img.shields.io/badge/SCSS-90%25-pink)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-90%25-38B2AC)
-![React](https://img.shields.io/badge/React-75%25-blue)
-![C++](https://img.shields.io/badge/C++-50%25-blue)
-![Python](https://img.shields.io/badge/Python-50%25-green)
+![HTML](https://img.shields.io/badge/HTML-25-orange)
+![CSS](https://img.shields.io/badge/CSS-25-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-25-yellow)
+![Sass](https://img.shields.io/badge/SASS-25-pink)
+![SCSS](https://img.shields.io/badge/SCSS-25-pink)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-25-38B2AC)
+![React](https://img.shields.io/badge/React-25-blue)
+![C++](https://img.shields.io/badge/C++-25-blue)
+![Python](https://img.shields.io/badge/Python-25-green)
 
 
 ### 🌱 Currently Learning
