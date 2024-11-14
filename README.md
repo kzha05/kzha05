@@ -5,21 +5,22 @@ Welcome to my GitHub! I’m an aspiring web developer with a passion for creatin
 
 ### 💻 Languages
 
-![HTML](https://img.shields.io/badge/HTML-25-orange)
-![CSS](https://img.shields.io/badge/CSS-25-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-25-yellow)
-![Sass](https://img.shields.io/badge/SASS-25-pink)
-![SCSS](https://img.shields.io/badge/SCSS-25-pink)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-25-38B2AC)
-![React](https://img.shields.io/badge/React-25-blue)
-![C++](https://img.shields.io/badge/C++-25-blue)
-![Python](https://img.shields.io/badge/Python-25-green)
+![HTML](https://img.shields.io/badge/HTML-orange)
+![CSS](https://img.shields.io/badge/CSS-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![Sass](https://img.shields.io/badge/SASS-pink)
+![SCSS](https://img.shields.io/badge/SCSS-pink)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC)
+![React](https://img.shields.io/badge/React-blue)
+![C++](https://img.shields.io/badge/C++-blue)
+![Python](https://img.shields.io/badge/Python-green)
 
 
 ### 🌱 Currently Learning
 - Node.js
 - C++
-- becoming better at semantic HTML and React.
+- Semantic HTML
+- React.
 
 
 ### 🔗 Some of my work
