@@ -17,10 +17,11 @@ Welcome to my GitHub! I’m an aspiring web developer with a passion for creatin
 
 
 ### 🌱 Currently Learning
+- Typescript
 - Node.js
 - C++
 - Semantic HTML
-- React.
+- React
 
 
 ### 🔗 Some of my work
